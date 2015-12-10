@@ -1,0 +1,13 @@
+{
+  "name": "apache-drill-dashboard",
+  "version": "1.0.0",
+  "description": "Fun with Apace Drill REST API",
+  "main": "index.js",
+  "author": "Tug Grall",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "request": "2.65.x",
+    "blessed" : "0.1.x",
+    "blessed-contrib" : "2.4.x"
+  }
+}
